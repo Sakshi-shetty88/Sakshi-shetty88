@@ -22,6 +22,9 @@
 - 🛡️ [**Incident Response Simulator**](https://github.com/Sakshi-shetty88/Incident-Response-Simulator)  
   A web-based tool for simulating and managing incident response workflows
 
+- 🚨 [**SOC Log Analyzer & Threat Alert System**](https://github.com/Sakshi-shetty88/soc-log-anaylser-threat-alreat-system)  
+  Log analysis and alert generation system to detect threats using mock SOC data
+
 ---
 
 ### 🛠️ Skills & Tools
