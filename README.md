@@ -16,7 +16,7 @@
 - 🔎 [**Phishing URL Detector**](https://github.com/Sakshi-shetty88/Phishing-URL-Detector)  
   Real-time detection of phishing URLs using advanced security logic
 
-- 📊 [**Cybersecurity Monitoring Dashboard**]([https://github.com/Sakshi-shetty88/Cybersecurity-Monitoring-Dashboard])  
+- 📊 [**Cybersecurity Monitoring Dashboard**]([https://github.com/Sakshi-shetty88/Cybersecurity-Monitoring-Dashboard)
   Simulated SOC dashboard showing live threat data and severity tagging
 
 - 🛡️ [**Incident Response Simulator**](https://github.com/Sakshi-shetty88/Incident-Response-Simulator)  
