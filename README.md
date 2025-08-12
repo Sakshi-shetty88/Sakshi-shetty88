@@ -1,7 +1,8 @@
 <!-- PROFILE README FOR Sakshi Shetti -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fd7e14,100:20c997&height=200&section=header&text=Sakshi%20Shetti%20%7C%20Cybersecurity%20Enthusiast&fontSize=32&fontAlignY=35&desc=Passionate%20about%20SOC%20Analyst%20%26%20Cybersecurity%20Engineer%20Roles&descSize=18&descAlign=60" alt="banner" />
-
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fd7e14,100:20c997&height=200&section=header&text=Sakshi%20Shetti%20%7C%20Cybersecurity%20Enthusiast&fontSize=32&fontAlignY=35&desc=Passionate%20about%20SOC%20Analyst%20%26%20Cybersecurity%20Engineer%20Roles&descSize=18&descAlign=60" alt="banner" />
+](https://capsule-render.vercel.app/api?type=waving&color=0%3Afd7e14,100%3A20c997&height=200&section=header&text=Sakshi%20Shetti&fontSize=32&fontAlignY=35
+)
 ### 👋 Hi, I’m Sakshi Shetti
 
 Passionate about cybersecurity, aspiring SOC Analyst and Cybersecurity Engineer  
