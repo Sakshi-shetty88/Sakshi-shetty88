@@ -1,67 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sakshi Shetti</h1>
-<h3 align="center">Aspiring Cybersecurity Engineer | SOC Analyst in Progress 🔐</h3>
+<!-- PROFILE README FOR Sakshi Shetti -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fd7e14,100:20c997&height=200&section=header&text=Sakshi%20Shetti%20%7C%20Cybersecurity%20Enthusiast&fontSize=32&fontAlignY=35&desc=Passionate%20about%20SOC%20Analyst%20%26%20Cybersecurity%20Engineer%20Roles&descSize=18&descAlign=60" alt="banner" />
+
+### 👋 Hi, I’m Sakshi Shetti
+
+Passionate about cybersecurity, aspiring SOC Analyst and Cybersecurity Engineer  
+Driving to protect digital environments and enhance cyber defenses.
 
 ---
 
-🌟 Passionate about **Cybersecurity**, especially in SOC operations, incident response, and real-time threat detection.
+#### 💻 Tech Stack & Tools
 
-🎓 Currently a final year  Electronics & Communication student  
-🎯 Focused on building practical, resume-worthy cybersecurity projects  
-💻 Exploring tools like **Wireshark, Nmap, Burp Suite, OWASP ZAP, Metasploit, Kali Linux, SIEM (Splunk)**, and more.
-
----
-
-### 🚀 Featured Projects
-
-- 🔎 [**Phishing URL Detector**](https://github.com/Sakshi-shetty88/Phishing-URL-Detector)  
-  Real-time detection of phishing URLs using advanced security logic
-
-- 📊 [**Cybersecurity Monitoring Dashboard**]([https://github.com/Sakshi-shetty88/Cybersecurity-Monitoring-Dashboard)
-  Simulated SOC dashboard showing live threat data and severity tagging
-
-- 🛡️ [**Incident Response Simulator**](https://github.com/Sakshi-shetty88/Incident-Response-Simulator)  
-  A web-based tool for simulating and managing incident response workflows
-
-- 🚨 [**SOC Log Analyzer & Threat Alert System**](https://github.com/Sakshi-shetty88/soc-log-anaylser-threat-alreat-system)  
-  Log analysis and alert generation system to detect threats using mock SOC data
+![Nmap](https://img.shields.io/badge/Nmap-0061fe?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1c2033?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 🛠️ Skills & Tools
+#### 🚀 Key Projects
 
-- **Cybersecurity Domains:**  
-  SOC Operations, Network Security, Web App Security (OWASP Top 10), Vulnerability Analysis, Incident Response
+- **Cybersecurity Monitoring Dashboard**  
+  Simulated a SOC dashboard to display real-time alerts and log severities with detection for brute-force and DDoS indicators.  
+  Tech used: React, TypeScript, Tailwind CSS
 
-- **Tools & Tech:**  
-  Wireshark, Nmap, Burp Suite, OWASP ZAP, Kali Linux, Metasploit, Linux Terminal, Python, Bash
+- **Phishing URL Detector**  
+  Developed a rule-based phishing detection tool using domain pattern analysis and string heuristics.  
+  Tech used: Python
 
-- **Currently Learning:**  
-  Splunk, Microsoft Sentinel (SIEM), Privilege Escalation, Post-Exploitation Techniques
+- **Password Strengthening System**  
+  Developed a system to check and improve password security based on strength levels.  
+  Internship project
 
----
-
-### 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/sakshi-shetti-65786129b)
-- 📧 Email: sakshishetti555@gmail.com  
-- 🛡️ Always open to internships or entry-level cybersecurity roles!
+- **Vulnerability Scanner Implementation**  
+  Implemented vulnerability scanning techniques as part of internship experience.
 
 ---
 
-<p align="center">Let’s secure the world, one packet at a time 🧠🔐</p>
+#### 🏆 Achievements & Internships
 
+- Completed cybersecurity internships focused on real-world tools and security monitoring.
+- Active member and leader in college clubs: Cultural Coordinator at ENCEA, Student Member of Silverbots Robotics Club, and Student Union Member at KVGCE.
 
-<!--
-**Sakshi-shetty88/Sakshi-shetty88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 📫 Contact & Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sakshi-shetti-65786129b)  
+✉️ Email: [sakshishetti555@gmail.com](mailto:sakshishetti555@gmail.com)
+
+---
+
+#### 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sakshi-shetty88&show_icons=true&theme=radical&hide_title=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-shetty88&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi-shetty88&theme=vue)
+
+---
+
+<details>
+  <summary>📖 More About Me</summary>
+  <br/>
+  - 🌱 Currently learning advanced SOC automation  
+  - ✨ Passionate about defending digital landscapes and continuously improving cyber defense skills  
+  - 🎮 Fun fact: I enjoy solving CTF challenges and exploring cybersecurity trends
+</details>
