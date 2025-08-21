@@ -13,13 +13,7 @@ Passionate about defending digital environments, detecting threats, and building
 
 #### 💻 Tech Stack & Tools  
 
-![Nmap](https://img.shields.io/badge/Nmap-0061fe?style=for-the-badge&logo=nmap&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1c2033?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-0061fe?style=for-the-badge&logo=nmap&logoColor=white)  ![Wireshark](https://img.shields.io/badge/Wireshark-1c2033?style=for-the-badge&logo=wireshark&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ---
 
@@ -59,11 +53,6 @@ Passionate about defending digital environments, detecting threats, and building
 
 ---
 
-#### 📈 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=Sakshi-shetty88&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-shetty88&theme=radical)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi-shetty88&theme=vue)  
 
 ---
 
