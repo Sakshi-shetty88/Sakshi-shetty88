@@ -35,7 +35,7 @@ Passionate about defending digital environments, detecting threats, and building
   Created a rule-based phishing detection tool using domain pattern analysis and string heuristics.  
   *Tech used: Python*
 
-- **🔐 [Password Strengthening System](https://github.com/Sakshi-shetty88/Password-Strengthening-System)**  
+- **🔐 [Password Strengthening System](https://github.com/Sakshi-shetty88/password-strength-checker-1)**  
   Developed a system to check and improve password security based on strength levels.  
   *Internship project (Python)*
 
