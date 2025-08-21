@@ -19,11 +19,11 @@ Passionate about defending digital environments, detecting threats, and building
 
 #### 🚀 Key Projects  
 
-- **🔎 [Cybersecurity Monitoring Dashboard](https://github.com/Sakshi-shetty88/Cybersecurity-Monitoring-Dashboard)**  
+- **🔎 [Cybersecurity Monitoring Dashboard](https://github.com/Sakshi-shetty88/cybersecurity-monitoring-dashboardd)**  
   Simulated a SOC dashboard to display real-time alerts and log severities with detection for brute-force and DDoS indicators.  
   *Tech used: React, TypeScript, Tailwind CSS*
 
-- **🛡️ [Incident Response System (SOC Simulator)](https://github.com/Sakshi-shetty88/Incident-Response-System)**  
+- **🛡️ [Incident Response System (SOC Simulator)](https://github.com/Sakshi-shetty88/incident-response-system)**  
   Built a SOC-inspired Incident Response Simulator to manage mock alerts, assign severity, and handle security incidents step by step.  
   *Tech used: React, TypeScript, Tailwind CSS*
 
@@ -31,7 +31,7 @@ Passionate about defending digital environments, detecting threats, and building
   Developed a real-time network packet sniffer that captures traffic and detects anomalies using statistical analysis.  
   *Tech used: Python, Scapy, SQLite, Matplotlib*
 
-- **🛡️ [Phishing URL Detector](https://github.com/Sakshi-shetty88/Phishing-URL-Detector)**  
+- **🛡️ [Phishing URL Detector](https://github.com/Sakshi-shetty88/PhishGuard-Realtime-URL-Detector)**  
   Created a rule-based phishing detection tool using domain pattern analysis and string heuristics.  
   *Tech used: Python*
 
